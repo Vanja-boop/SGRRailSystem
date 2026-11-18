@@ -1,0 +1,1 @@
+Put sqlite-jdbc-3.36.0.3.jar in this folder (download from Maven Central: org.xerial:sqlite-jdbc).
